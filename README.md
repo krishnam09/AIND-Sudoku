@@ -3,11 +3,11 @@
 
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
-A: *Student should provide answer here*
+A: This is a mechanism to eliminate certain combinations while finding solution. Functionally Naked Twins is similar to only choice.
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
-A: *Student should provide answer here*
+A: We create diagonal units similar to rowunits, column units. Peers dictonary is modified based on column units. Approach should be similar.
 
 ### Install
 
